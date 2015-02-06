@@ -38,6 +38,7 @@
     """,
   'author': 'Camptocamp',
   'website': 'http://www.camptocamp.com',
+  'license': 'AGPL-3',
   'depends': ['base', 'report_webkit'],
   'data': ['base_headers_data.xml'],
   'test': [],
